@@ -1,2 +1,2 @@
 # BallBlastGame
-My personal remake of the Ball Blast mobile phone game. 
+My brother and I's personal remake of the Ball Blast mobile phone game. 
